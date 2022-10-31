@@ -1,3 +1,5 @@
 This is the first line in github file
 
 This is the 1st edit from the local device on the remote file branch
+
+This is the 2nd edit from local dev to remote file branch after the first push from local dev
